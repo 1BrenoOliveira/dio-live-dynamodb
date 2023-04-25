@@ -1,6 +1,16 @@
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {
+    "S": "Alok"
+  },
+  "SongTitle": {
+    "S": "Hours and hours"
+  },
+  "AlbumTitle": {
+    "S": "Controversia by alok vol. 007"
+  },
+  "SongYear": {
+    "S": "2022"
+  }
 }
+
+
